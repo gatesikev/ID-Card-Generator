@@ -1,5 +1,5 @@
 import IdCard from "./IdCard";
-import people from "../data/people";
+import people from "../data/people.js";
 
 const CardList = () => {
   return (

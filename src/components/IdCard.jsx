@@ -5,7 +5,7 @@ const IdCard = ({ id, name, role, department, avatar }) => {
         
         <img
           src={avatar}
-          alt={name}
+          alt="profile"
           className="w-24 h-24 rounded-full mb-4 border-4 border-blue-500"
         />
 
