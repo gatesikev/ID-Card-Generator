@@ -1,6 +1,8 @@
 import picture1 from "../assets/picture1.jpeg";
 import picture2 from "../assets/picture2.jpeg";
 import picture3 from "../assets/picture3.jpeg";
+import picture4 from "../assets/picture4.jpeg";
+import picture5 from "../assets/picture5.jpeg";
 
 const people = [
   {
@@ -15,14 +17,14 @@ const people = [
     name: "Michaela Smith",
     role: "UI/UX Designer",
     department: "Design",
-    avatar: picture2
+    avatar: picture4
   },
   {
     id: 3,
     name: "Sarah Williams",
     role: "Project Manager",
     department: "Management",
-    avatar: picture3
+    avatar: picture5
   }
 ];
 
